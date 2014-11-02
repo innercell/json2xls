@@ -1,0 +1,22 @@
+{
+  "name": "json2xls",
+  "description": "XLS builder",
+  "version": "0.0.1",
+  "author": {
+    "name": "Tiago Roberti Sampaio",
+    "email": "tiagosampaio@outlook.com",
+    "url": "http://www.trsampaio.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trsampaio/json2xls.git"
+  },
+  "license": "MIT",
+  "main": "./builder.js",
+  "dependencies": {
+    "msexcel-builder": "0.0.2"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
